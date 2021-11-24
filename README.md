@@ -1,7 +1,9 @@
 # Moon-Shot-Game
-This is the first pygame I have ever made.
-the file is moonshotv1.4.py; and you have to 
-run the file in the folder "jedi_moonshot"
+The most up-to-date version is file is moonshotv1.4.py;
+The source images for the animation are in "jedi_moonshot".
 
-The game is a simulation of moon shot from the earth
-that includes launch velocity and framerate adjustments
+The game is a simulation of a moon shot from the earth
+that includes launch velocity and framerate adjustments.
+Utilizing, python, the simulation is designed to inspire
+students at the Aerospace Museum to tackle similar
+projects and develop an interest for python.
